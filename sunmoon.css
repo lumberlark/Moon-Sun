@@ -1,0 +1,22 @@
+body{
+    background-color: #001;
+}
+
+#main{
+    position: absolute;
+    top: auto;
+    left: auto;
+}
+
+#moon{
+    width: 250px;
+    height: 250px;
+    background: linear-gradient(to right,dimgray,gray,lightgray,white);
+    border-radius: 50%;
+    transition:all 1s;
+    box-shadow: 0 0 50px white;
+    
+}
+
+
+}
